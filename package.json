@@ -11,6 +11,6 @@
   "dependencies": {
     "bip39": "^3.0.2",
     "ethereumjs-wallet": "^0.6.3",
-    "ethers": "^4.0.32"
+    "ethers": "^4.0.49"
   }
 }
